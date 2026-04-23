@@ -11,4 +11,4 @@ text
 Bild
 ![test](https://raw.githubusercontent.com/lxgv2132/DTM_2026/04450eaa4d0acc53b95602ac2dad61e67adc51fb/2026_04_10_Choroplethenkarten_Varianten_v2.svg)
 
-<img src"https://raw.githubusercontent.com/lxgv2132/DTM_2026/04450eaa4d0acc53b95602ac2dad61e67adc51fb/2026_04_10_Choroplethenkarten_Varianten_v2.svg" width=100>
+<img src="https://raw.githubusercontent.com/lxgv2132/DTM_2026/04450eaa4d0acc53b95602ac2dad61e67adc51fb/2026_04_10_Choroplethenkarten_Varianten_v2.svg" width="50%">
