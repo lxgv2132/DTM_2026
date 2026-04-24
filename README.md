@@ -1,6 +1,7 @@
 
 # DTM_2026
 
+
 ## EP 01 | Dasymetrische Choroplethenkarten
 ### Vorteile & Nachteile der Methode
 text
@@ -8,7 +9,24 @@ text
 ### Wie wurde die Methode umgesetzt
 text
 
-Bild
-![test](https://raw.githubusercontent.com/lxgv2132/DTM_2026/04450eaa4d0acc53b95602ac2dad61e67adc51fb/2026_04_10_Choroplethenkarten_Varianten_v2.svg)
+<img src="https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_04_10_Choroplethenkarten_Varianten_v3.png" width="75%">
 
-<img src="https://raw.githubusercontent.com/lxgv2132/DTM_2026/04450eaa4d0acc53b95602ac2dad61e67adc51fb/2026_04_10_Choroplethenkarten_Varianten_v2.svg" width="50%">
+
+## EP 02 | Gitterchoroplethenkarten
+### Vorteile & Nachteile der Methode
+text
+
+### Wie wurde die Methode umgesetzt
+text
+
+![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_04_22_Berlin_Kirschb%C3%A4ume_A4_v8.png)
+
+
+## EP 03 | Punktrasterkarten
+### Vorteile & Nachteile der Methode
+text
+
+### Wie wurde die Methode umgesetzt
+text
+
+![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_04_24_Berlin_Kirschb%C3%A4ume_Punktraster_A4_v5.png)
