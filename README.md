@@ -49,6 +49,8 @@ text
 ### Wie wurde die Methode umgesetzt
 text
 
+![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/afghanistan_refugees_8.png)
+
 ## EP 06 | Tilempas
 ### Vorteile & Nachteile der Methode
 text
@@ -62,3 +64,6 @@ text
 
 ### Wie wurde die Methode umgesetzt
 text
+
+[Meteoritenschauer](https://github.com/user-attachments/assets/a7a0314e-f96d-4f66-8eeb-27e8bc04405d)
+
