@@ -60,6 +60,8 @@ text
 ### Wie wurde die Methode umgesetzt
 text
 
+<img src="https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_06_06_Tilemap_Deutschland_Gel%C3%A4nde_v5.png" width="75%">
+
 ## EP 07 | Animation in QGIS
 ### Vorteile & Nachteile der Methode
 text
