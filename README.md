@@ -34,3 +34,31 @@ text
 ![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_04_24_Berlin_Kirschb%C3%A4ume_Punktraster_A4_v5.png)
 
 ![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_04_25_Berlin_Kirschb%C3%A4ume_Punktraster_Hexagon_A4_v5.png)
+
+## EP 04 | Value-By-Alpha Mapping
+### Vorteile & Nachteile der Methode
+text
+
+### Wie wurde die Methode umgesetzt
+text
+
+## EP 05 | Urpsrung-Ziel-Karten
+### Vorteile & Nachteile der Methode
+text
+
+### Wie wurde die Methode umgesetzt
+text
+
+## EP 06 | Tilempas
+### Vorteile & Nachteile der Methode
+text
+
+### Wie wurde die Methode umgesetzt
+text
+
+## EP 07 | Animation in QGIS
+### Vorteile & Nachteile der Methode
+text
+
+### Wie wurde die Methode umgesetzt
+text
