@@ -42,6 +42,8 @@ text
 ### Wie wurde die Methode umgesetzt
 text
 
+![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_05_07_Ungarn_Value_By_Alpha_v1.png)
+
 ## EP 05 | Urpsrung-Ziel-Karten
 ### Vorteile & Nachteile der Methode
 text
