@@ -48,6 +48,7 @@ text
 text
 
 ![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/afghanistan_refugees_8.png)
+PDF link: https://github.com/user-attachments/files/30556177/afghanistan_refugees_8.pdf
 
 ## EP 06 | Tilempas
 ### Vorteile & Nachteile der Methode
@@ -88,6 +89,8 @@ text
 ![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_06_20_Amsterdam_Pommes_v4.png)
 
 ![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/2026_06_21_Hamburg_Speicherstadt_A3_v5.jpg)
+
+
 
 
 
