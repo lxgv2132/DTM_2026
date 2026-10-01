@@ -4,7 +4,7 @@
 
 ## EP 01 | Dasymetrische Choroplethenkarten
 ### Vorteile & Nachteile der Methode
-text
+Einfache Choroplethenkarten sind eine der simpelsten Darstellungsmethoden für Karten. Hierfür wird die Ausprägung eines Merkmals in einem Gebiet über die dazugehörige Fläche dargestellt. Bei der Verwendung absoluter Werte werden Ergebnisse allerdings stark verzerrt, da bei gleichmäßiger Merkmalsausprägung größere Flächen höhere absolute Werte aufweisen. Dies erschwert in der Rgel den Vergleich zwischen Regionen. Daher ist die Darstellung relativer Werte oft besser. Dasymetrische Chorplethenkarten sind eine weitere Möglichkeit, Daten zu präsentieren. Hierbei werden innerhalb der einzelnen Flächen nur die Bereiche dargestellt, die für das dargstellte Merkmal relevant sind. Bereiche ohne Relevanz verzerren das Bild somit nicht. Bei Einwohnerzahlen bspw. werden nur bewohnte Flächen berücksichtigt; Wasserfläche, Straßen, öffentliche Plätze hingegen nicht. Alle diese Choroplethenkarten haben allerdings dasselbe Problem: die dargestellten Flächen sind nicht gleich groß, wodurch größeren Flächen fälschlicherweise eine höhere Bedeutung zugeweisen werden kann.
 
 ### Wie wurde die Methode umgesetzt?
 text
@@ -13,7 +13,7 @@ text
 
 ## EP 02 | Gitterchoroplethenkarten
 ### Vorteile & Nachteile der Methode
-text
+Gitterchoroplethenkarten verfolgen den Ansatz, alle Flächen der Karte gleich groß darzustellen, um visuelle Fehlinterpretationen in Bezug auf die Bedeutung einer Fläche zu vermeiden. Allerdings werden dadurch Flöchen nicht akkurat dargestellt. Gitterelementen, die sich über mehreren Flächen befinden, muss entweder durch Gewichtung der Daten oder der Wert der dominierende Fläche zugewiesen wwerden.
 
 ### Wie wurde die Methode umgesetzt?
 text
