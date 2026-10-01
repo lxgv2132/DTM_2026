@@ -13,7 +13,7 @@ text
 
 ## EP 02 | Gitterchoroplethenkarten
 ### Vorteile & Nachteile der Methode
-Gitterchoroplethenkarten verfolgen den Ansatz, alle Flächen der Karte gleich groß darzustellen, um visuelle Fehlinterpretationen in Bezug auf die Bedeutung einer Fläche zu vermeiden. Allerdings werden dadurch Flöchen nicht akkurat dargestellt. Gitterelementen, die sich über mehreren Flächen befinden, muss entweder durch Gewichtung der Daten oder der Wert der dominierende Fläche zugewiesen wwerden.
+Gitterchoroplethenkarten verfolgen den Ansatz, alle Flächen der Karte gleich groß darzustellen, um visuelle Fehlinterpretationen in Bezug auf die Bedeutung einer Fläche zu vermeiden. Allerdings werden dadurch Flöchen nicht akkurat dargestellt. Bei Gitterelementen, die sich über mehreren Flächen befinden, besteht zudem das Problem, dass entweder durch Gewichtung der Daten ein Wert ermittelt werden oder der Wert der dominierenden Fläche zugewiesen werden muss. Vorteilhaft ist hingegen, dass - wie bei dasymetrischen Choroplethenkarten auch - Bereiche ohne Merkmalsausprägung erkennbar sind.
 
 ### Wie wurde die Methode umgesetzt?
 text
@@ -24,7 +24,7 @@ text
 
 ## EP 03 | Punktrasterkarten
 ### Vorteile & Nachteile der Methode
-text
+Punktrasterkarten verfügen über die gleichen Eigenschaften wie Gitterchroplethenkarten, bieten aber zudem die Möglichkeit, stärkeren Ausprägungen aufgrund einer vergrößerten Darstellung eine höhere Bedeutung zuzuweisen. Dies ermöglicht eine bessere Hervorhebung auch bei Farbseheinschränkungen. Besonders geeignet sind solche Darstellungen, um die Dichtevertelung eines Merkmals zu visualisieren. Allerdings können die Flächen, die den Daten zugrunde liegen, durch diese Darstellung noch schwerer erkennbar werden als dies bei Gitterchoroplethenkarten ohnehin der Fall ist.
 
 ### Wie wurde die Methode umgesetzt?
 text
@@ -50,7 +50,7 @@ text
 ![](https://raw.githubusercontent.com/lxgv2132/DTM_2026/refs/heads/main/afghanistan_refugees_8.png)
 PDF link: https://github.com/user-attachments/files/30556177/afghanistan_refugees_8.pdf
 
-## EP 06 | Tilempas
+## EP 06 | Tilemaps
 ### Vorteile & Nachteile der Methode
 text
 
